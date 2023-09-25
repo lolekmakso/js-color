@@ -5,9 +5,9 @@
 }
 
 body {
+  font-family: 'Roboto', sans-serif;
   height: 100vh;
   display: flex;
-  font-family: "Roboto", sans-serif;
 }
 
 .col {
@@ -20,7 +20,7 @@ body {
 
 .col h2 {
   padding: 10px;
-  color: wheat;
+  color: #fff;
   border-radius: 10px;
   transition: background 0.3s;
 }
@@ -35,7 +35,7 @@ body {
   border: none;
   background: transparent;
   font-size: 1.5rem;
-  color: white;
+  color: #fff;
   padding: 10px;
   border-radius: 10px;
   transition: background 0.3s;
